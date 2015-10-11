@@ -1,6 +1,9 @@
-# crop-dimension-db
-Database of Common Crop Dimensions
+# Database of Common Crop Dimensions
+CropToFit is an online tool to scale and crop an image to specific dimensions. 
 
+Below is a database of commond crop dimensions:
+
+Note that you can click on any link to open the CropToFit tool with the dimensions preset.
 
 ## Ad Networks:
 
