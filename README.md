@@ -4,7 +4,7 @@ Database of Common Crop Dimensions
 
 ## Ad Networks:
 
-### ![](./img/ad_networks/icon_google_ads.png)  Google Adsense
+### ![Google Adsense](http://croptofit.com/cropdb/img/ad_networks/icon_google_ads.png)  Google Adsense
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Reference: |
 | --- | --- | --- | --- |
@@ -14,7 +14,7 @@ Database of Common Crop Dimensions
 | Half Page | <span class="dimensions">[300x600](http://croptofit.com?crop=300x600)</span> | 1:2 | [Google Help](https://support.google.com/adsense/answer/6002621?hl=en) |
 | Large Mobile Banner | <span class="dimensions">[320x100](http://croptofit.com?crop=320x100)</span> | 16:5 | [Google Help](https://support.google.com/adsense/answer/6002621?hl=en) |
 
-### ![](./img/ad_networks/facebook-ads.png)  Facebook ads
+### ![Facebook Ads](http://croptofit.com/cropdb/img/ad_networks/facebook-ads.png)  Facebook ads
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Reference: |
 | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Database of Common Crop Dimensions
 | Offer Claims | <span class="dimensions">[1200x628](http://croptofit.com?crop=1200x628)</span> | 1.91 | [Facebook Help Centre](https://www.facebook.com/help/103816146375741) |
 | Video Views | <span class="dimensions">[1200x675](http://croptofit.com?crop=1200x675)</span> | 16:9 | [Facebook Help Centre](https://www.facebook.com/help/103816146375741) |
 
-### ![](./img/ad_networks/admob.png)  AdMob
+### ![AdMob](http://croptofit.com/cropdb/img/ad_networks/admob.png)  AdMob
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Max File Size: | Image Formats: | Reference: |
 | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Database of Common Crop Dimensions
 | Tablet interstitial (portrait) | <span class="dimensions">[768x1024](http://croptofit.com?crop=768x1024)</span> | 3:4 | 150 KB or smaller | JPG, PNG, GIF | [AdMob Help](https://support.google.com/admob/answer/3098666?hl=en) |
 | Tablet interstitial (landscape) | <span class="dimensions">[1024x768](http://croptofit.com?crop=1024x768)</span> | 4:3 | 150 KB or smaller | JPG, PNG, GIF | [AdMob Help](https://support.google.com/admob/answer/3098666?hl=en) |
 
-### ![](./img/ad_networks/Apple-iAd.png)  iAd
+### ![iAd](http://croptofit.com/cropdb/img/ad_networks/Apple-iAd.png)  iAd
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Reference: |
 | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ Database of Common Crop Dimensions
 
 ## App and Web Stores:
 
-### ![](./img/app_web_store/icon_google_play.png) Google Play Store
+### ![Google Play Store](http://croptofit.com/cropdb/img/app_web_store/icon_google_play.png) Google Play Store
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Max File Size: | Image Formats: | Reference: |
 | --- | --- | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ Database of Common Crop Dimensions
 | Promo graphic | <span class="dimensions">[180x120](http://croptofit.com?crop=180x120)</span> | 3:2 | JPG, PNG | [Developer Console Help](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en) |
 | Banner asset (Android TV) | <span class="dimensions">[320x180](http://croptofit.com?crop=320x180)</span> | 16:9 | JPEG, PNG | [Developer Console Help](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en) |
 
-### ![](./img/app_web_store/icon_chrome_store.png) Chrome Store
+### ![Chrome Store](http://croptofit.com/cropdb/img/app_web_store/icon_chrome_store.png) Chrome Store
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Image Formats: | Reference: |
 | --- | --- | --- | --- | --- |
@@ -75,7 +75,7 @@ Database of Common Crop Dimensions
 | Promotional images | <span class="dimensions">[440x280](http://croptofit.com?crop=440x280)</span> | 11:7 | [Developer Chrome](https://developer.chrome.com/webstore/images) |
 | Screenshots | <span class="dimensions">[1280x800](http://croptofit.com?crop=1280x800)</span> | 8:5 | [Developer Chrome](https://developer.chrome.com/webstore/images) |
 
-### ![](./img/app_web_store/itunes_icon.png) iTunes Store
+### ![iTunes Store](http://croptofit.com/cropdb/img/app_web_store/itunes_icon.png) iTunes Store
 
 | Name | Description | Recommended Dimensions: | Aspect Ratio: | Reference: |
 | --- | --- | --- | --- | --- |
@@ -106,7 +106,7 @@ Database of Common Crop Dimensions
 
 ## Software Development:
 
-### ![](./img/software_development/icon_apple.png) iOS Icons
+### ![iOS Icons](http://croptofit.com/cropdb/img/software_development/icon_apple.png) iOS Icons
 
 | Name | Description | Recommended Dimensions: | Aspect Ratio: | Image Formats: | Reference: |
 | --- | --- | --- | --- | --- | --- |
@@ -142,7 +142,7 @@ navigation icon | @3x iPhone 6 Plus | <span class="dimensions">[66x66](http://cr
  @2x iPad, iPad mini | <span class="dimensions">[50x50](http://croptofit.com?crop=50x50)</span> | 1:1 | PNG | [iOS Developer Library](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1) |
  @1x iPad 2, iPad mini | <span class="dimensions">[25x25](http://croptofit.com?crop=25x25)</span> | 1:1 | PNG | [iOS Developer Library](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1) |
 
-### ![](./img/software_development/icon_apple.png) iOS Launch Screens
+### ![iOS Launch Screens](http://croptofit.com/cropdb/img/software_development/icon_apple.png) iOS Launch Screens
 
 | Name | Description | Recommended Dimensions: | Aspect Ratio: | Image Formats: | Reference: |
 | --- | --- | --- | --- | --- | --- |
@@ -158,7 +158,7 @@ navigation icon | @3x iPhone 6 Plus | <span class="dimensions">[66x66](http://cr
 | iPad, iPad mini | @2x portrait | <span class="dimensions">[1536x2048](http://croptofit.com?crop=1536x2048)</span> | 3:4 | PNG | [iOS Developer Library](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/LaunchImages.html#//apple_ref/doc/uid/TP40006556-CH22-SW1) |
  @2x landscape | <span class="dimensions">[1536x2048](http://croptofit.com?crop=1536x2048)</span> | 4:3 | PNG | [iOS Developer Library](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/LaunchImages.html#//apple_ref/doc/uid/TP40006556-CH22-SW1) |
 
-### ![](./img/software_development/android.png) Android Icons
+### ![Android Icons](http://croptofit.com/cropdb/img/software_development/android.png) Android Icons
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Reference: |
 | --- | --- | --- | --- |
@@ -169,21 +169,21 @@ navigation icon | @3x iPhone 6 Plus | <span class="dimensions">[66x66](http://cr
 
 ## Social Media Networks:
 
-### ![](./img/social_network/facebook.png) Facebook Personal Page
+### ![Facebook Personal Page](http://croptofit.com/cropdb/img/social_network/facebook.png) Facebook Personal Page
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Image Formats: | Reference: |
 | --- | --- | --- | --- | --- |
 | Profile Photo | <span class="dimensions">[180x180](http://croptofit.com?crop=180x180)</span> | 1:1 | PNG, JPG | [Facebook Help](https://www.facebook.com/help/125379114252045) |
 | Cover Photo | <span class="dimensions">[851x315](http://croptofit.com?crop=851x315)</span> | 2.7 | PNG, JPG | [Facebook Help](https://www.facebook.com/help/125379114252045) |
 
-### ![](./img/social_network/facebook_fan_page.png) Facebook Fanpage
+### ![Facebook Fanpage](http://croptofit.com/cropdb/img/social_network/facebook_fan_page.png) Facebook Fanpage
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Image Formats: | Reference: |
 | --- | --- | --- | --- | --- |
 | Profile Photo | <span class="dimensions">[180x180](http://croptofit.com?crop=180x180)</span> | 1:1 | PNG, JPG | [Facebook Help](https://www.facebook.com/help/125379114252045) |
 | Cover Photo | <span class="dimensions">[851x315](http://croptofit.com?crop=851x315)</span> | 2.7 | PNG, JPG | [Facebook Help](https://www.facebook.com/help/125379114252045) |
 
-### ![](./img/social_network/google-plus.png)  Google Plus
+### ![Google Plus](http://croptofit.com/cropdb/img/social_network/google-plus.png)  Google Plus
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Max File Size: | Reference: |
 | --- | --- | --- | --- | --- |
@@ -193,7 +193,7 @@ navigation icon | @3x iPhone 6 Plus | <span class="dimensions">[66x66](http://cr
 | Shared Link (thumbnail) | <span class="dimensions">[150x150](http://croptofit.com?crop=150x150)</span> | 1:1 | [Google Help](https://support.google.com/plus/answer/1057172?hl=en) |
 | Shared Video | <span class="dimensions">[497x279](http://croptofit.com?crop=497x279)</span> | 1.78 | [Google Help](https://support.google.com/plus/answer/1057172?hl=en) |
 
-### ![](./img/social_network/twitter.png)  Twitter
+### ![Twitter](http://croptofit.com/cropdb/img/social_network/twitter.png)  Twitter
 
 | Twitter | Recommended Dimensions: | Aspect Ratio: | Max File Size: | Image Formats: | Reference: |
 | --- | --- | --- | --- | --- | --- |
@@ -201,7 +201,7 @@ navigation icon | @3x iPhone 6 Plus | <span class="dimensions">[66x66](http://cr
 | Header Photo: | <span class="dimensions">[1500x500](http://croptofit.com?crop=1500x500)</span> | 3:1 | 10MB | JPG, GIF, PNG | [Twitter Help](https://support.twitter.com/articles/127871-customizing-your-profile) |
 | In-Stream Photo: | <span class="dimensions">[506x253](http://croptofit.com?crop=506x253)</span> | 2:1 | 5MB for Photos, 3 MB for GIF's | JPG, GIF, PNG | [Twitter Help](https://support.twitter.com/articles/127871-customizing-your-profile) |
 
-### ![](./img/social_network/pinterest.png) Pinterest
+### ![Pinterest](http://croptofit.com/cropdb/img/social_network/pinterest.png) Pinterest
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Reference: |
 | --- | --- | --- | --- |
@@ -212,7 +212,7 @@ navigation icon | @3x iPhone 6 Plus | <span class="dimensions">[66x66](http://cr
 | Cover image | <span class="dimensions">[217x146](http://croptofit.com?crop=217x146)</span> | 1.5 | [Author Media](http://www.authormedia.com/the-pinterest-cheat-sheet-to-image-sizes/) |
 | Tiny thumbnails | <span class="dimensions">[51x51](http://croptofit.com?crop=51x51)</span> | 1:1 | [Author Media](http://www.authormedia.com/the-pinterest-cheat-sheet-to-image-sizes/) |
 
-### ![](./img/social_network/linkedin.png) LinkedIn
+### ![LinkedIn](http://croptofit.com/cropdb/img/social_network/linkedin.png) LinkedIn
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Max File Size: | Image Formats: | Reference: |
 | --- | --- | --- | --- | --- | --- |
@@ -223,7 +223,7 @@ navigation icon | @3x iPhone 6 Plus | <span class="dimensions">[66x66](http://cr
 | Background Photo
 (Premium Feature) | <span class="dimensions">[1400x425](http://croptofit.com?crop=1400x425)</span> | 3.3 | Maximum 2 MB | PNG, JPEG, GIF | [LinkedIn Help Center](https://help.linkedin.com/app/answers/detail/a_id/32617/~/adding-a-homepage-image-or-logo-to-company-pages) |
 
-### ![](./img/social_network/youtube.png) YouTube
+### ![YouTube](http://croptofit.com/cropdb/img/social_network/youtube.png) YouTube
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Image Formats: | Reference: |
 | --- | --- | --- | --- | --- |
@@ -234,13 +234,13 @@ navigation icon | @3x iPhone 6 Plus | <span class="dimensions">[66x66](http://cr
 | Mobile Device & Tablet Banners | <span class="dimensions">[1546x423](http://croptofit.com?crop=1546x423)</span> | 3.45 | JPG, GIF, BMP or PNG | [YouTube Help](https://support.google.com/youtube/answer/2976827?hl=en) |
 | Channel Icon | <span class="dimensions">[98x98](http://croptofit.com?crop=98x98)</span> | 1:1 | JPG, GIF, BMP or PNG | [YouTube Help](https://support.google.com/youtube/answer/2976827?hl=en) |
 
-### ![](./img/social_network/instagram.png) Instagram
+### ![Instagram](http://croptofit.com/cropdb/img/social_network/instagram.png) Instagram
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Reference: |
 | --- | --- | --- | --- |
 | Upload Images | <span class="dimensions">[612x612](http://croptofit.com?crop=612x612)</span> | 1:1 | [Instructables](http://www.instructables.com/id/How-to-Resize-a-Photo-for-Instagram/) |
 
-### ![](./img/social_network/tumblr.png) Tumblr
+### ![Tumblr](http://croptofit.com/cropdb/img/social_network/tumblr.png) Tumblr
 
 | Name | Recommended Dimensions: | Aspect Ratio: | Reference: |
 | --- | --- | --- | --- |
